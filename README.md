@@ -18,7 +18,7 @@ Application web de gestion de tâches créée avec **HTML**, **CSS**, **PHP** et
 - PHP
 - MySQL
 - HTML / CSS (avec Bootstrap)
-- JavaScript Vanilla
+- JavaScript
 
 ---
 
